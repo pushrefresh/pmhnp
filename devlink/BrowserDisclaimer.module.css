@@ -1,0 +1,64 @@
+.background-color-graywarm50 {
+  background-color: hsla(60, 9.09%, 97.84%, 1.00);
+}
+
+.section.background-color-clarity400 {
+  background-color: var(--base--color--clarity-400);
+  color: var(--neutrals--neutral-0);
+}
+
+.section.podcast-section {
+  background-color: var(--base--color--peace-50);
+}
+
+.padding-global {
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.max-width-full {
+  width: 100%;
+  max-width: none;
+}
+
+.container-medium {
+  width: 100%;
+  max-width: 64rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.padding-section-small {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+@media screen and (max-width: 767px) {
+  .padding-section-small {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+}
+
+.heading-style-h3 {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 991px) {
+  .heading-style-h3 {
+    font-size: 2.25rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .heading-style-h3 {
+    font-size: 2rem;
+  }
+}
+
+.padding-4 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
