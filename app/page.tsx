@@ -1,4 +1,4 @@
-import Image from 'next/image',
+import Image from 'next/image';
 import { HeroElement } from '@/devlink'
 
 export default function Home() {
