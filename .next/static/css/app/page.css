@@ -66,6 +66,186 @@
   padding-bottom: 0.75rem;
 }
 /*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./devlink/CourseIntro.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.CourseIntro_background-color-graywarm50___vls1 {
+  background-color: hsla(60, 9.09%, 97.84%, 1.00);
+}
+
+.CourseIntro_section__8zWjd.CourseIntro_background-color-clarity400__gwcEu {
+  background-color: var(--base--color--clarity-400);
+  color: var(--neutrals--neutral-0);
+}
+
+.CourseIntro_section__8zWjd.CourseIntro_podcast-section__BcIbF {
+  background-color: var(--base--color--peace-50);
+}
+
+.CourseIntro_padding-global__hGIsD {
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.CourseIntro_max-width-full__nUW_I {
+  width: 100%;
+  max-width: none;
+}
+
+.CourseIntro_container-large__1_Qdg {
+  width: 100%;
+  max-width: 80rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.CourseIntro_padding-section-large__7ZFgJ {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+@media screen and (max-width: 991px) {
+  .CourseIntro_padding-section-large__7ZFgJ {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .CourseIntro_padding-section-large__7ZFgJ {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+}
+
+.CourseIntro_text-align-center__GFyY_ {
+  text-align: center;
+}
+
+.CourseIntro_margin-0__IAKv_ {
+  margin: 0rem;
+}
+
+.CourseIntro_heading-style-h2__iwJ7r {
+  font-size: 3rem;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 991px) {
+  .CourseIntro_heading-style-h2__iwJ7r {
+    font-size: 2.75rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .CourseIntro_heading-style-h2__iwJ7r {
+    font-size: 2.25rem;
+  }
+}
+
+.CourseIntro_heading-style-h3__4A75l {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 991px) {
+  .CourseIntro_heading-style-h3__4A75l {
+    font-size: 2.25rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .CourseIntro_heading-style-h3__4A75l {
+    font-size: 2rem;
+  }
+}
+
+.CourseIntro_padding-6__Zc1fq {
+  width: 100%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.CourseIntro_video_start-here__Yt4Vp {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.CourseIntro_video_playicon__dCU5_ {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: var(--border-radius--6);
+
+  transition: all 250ms ease-in-out;
+}
+
+.CourseIntro_video_playicon__dCU5_:hover {
+  background-color: rgba(40, 69, 87, 0.4);
+}
+
+.CourseIntro_play-icon__2yM23 {
+  display: flex;
+  width: 96px;
+  height: 96px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: var(--border-radius--10);
+
+  background-color: hsla(209.99999999999977, 10.53%, 92.55%, 0.80);
+
+  transition: all 250ms ease-in-out;
+}
+
+.CourseIntro_play-icon__2yM23:hover {
+  width: 104px;
+  height: 104px;
+  background-color: hsla(209.99999999999977, 10.53%, 92.55%, 0.95);
+}
+
+.CourseIntro_shadow-xxlarge__RR9SU {
+  box-shadow: 0 32px 64px -12px hsla(219.99999999999997, 0.00%, 0.00%, 0.14);
+}
+
+.CourseIntro_icon-embed-medium___dtf3 {
+  display: flex;
+  width: 3rem;
+  height: 3rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.CourseIntro_image-rounded__knDiD {
+  border-radius: var(--border-radius--6);
+}
+
+.CourseIntro_shadow-xlarge__YdaXd {
+  box-shadow: 0 24px 48px -12px hsla(219.99999999999997, 0.00%, 0.00%, 0.18);
+}
+
+.CourseIntro_image-rounded__knDiD.CourseIntro_shadow-xlarge__YdaXd.CourseIntro_hue-adjust__1Fian {
+  filter: contrast(200%);
+}
+
+.CourseIntro_image-rounded__knDiD.CourseIntro_video-thumbnail__wXoTD {
+  width: 100%;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./devlink/HeroElement.module.css ***!
   \**************************************************************************************************************************************************************************************************************************************************************************/
 .HeroElement_section_header5__jzF51 {

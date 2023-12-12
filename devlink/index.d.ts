@@ -6,6 +6,7 @@ export * from "./interactions";
 export * from "./utils";
 export * from "./devlink";
 export * from "./BrowserDisclaimer";
+export * from "./CourseIntro";
 export * from "./HeroElement";
 export * from "./HonestyPolicy";
 export * from "./MainFooter";
