@@ -3,5 +3,5 @@ module.exports = {
     rootDir: "./devlink",
     siteId: "65502a727db9aa282c23a481",
     authToken: process.env.WF_AUTH_TOKEN,
-    cssModules: true
+    cssModules: false
   }
